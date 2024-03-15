@@ -22,6 +22,16 @@ In our pursuit to understand the most effective approach for classifying user st
 #### Neural Network Methods:
 - Long Short-Term Memory (LSTM) combined with BERT for word embedding
 
+#### Project Link：
+https://github.com/Kee386735501/user_stories_classification
+
+#### Project Contain 
+all codes in written in jupyter notebook , user stories data set is put in the data file folder 
+
+#### Environment Requirement 
+Python 3.8
+Pytorch 2.2
+
 ### Conclusion
 This project aims to shed light on the most effective methodologies for classifying user stories, thereby contributing valuable insights to the field of software requirements analysis. Through the comparative analysis of traditional machine learning, deep learning, and neural network methods, we endeavor to identify the models that provide the highest accuracy and efficiency in classifying user stories.
 
